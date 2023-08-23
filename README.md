@@ -6,7 +6,7 @@
  – Cooler condition과 Inter pump leakage의 값을 어떤 센서를 보면 확인 가능한지 파악
 
 ### 사용한 알고리즘
- – Classification, Regression등
+ – Classification, Regression, 상관관계,등
 
 
 ### 결과 요약 
