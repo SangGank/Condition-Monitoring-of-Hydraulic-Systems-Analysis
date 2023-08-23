@@ -9,7 +9,7 @@
  – Classification, Regression등
 
 
-결과 요약 
+### 결과 요약 
 
  1. Valve condition이 73 80 90일경우 무조건 0이 나온다. 
 
